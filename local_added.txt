@@ -1,1 +1,2 @@
 local adds 1
+local adds 2
